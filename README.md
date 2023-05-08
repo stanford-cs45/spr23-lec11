@@ -1,3 +1,3 @@
-# win23-lec10
+# spr23-lec11
 
-Contains examples and projects used for Lecture 10: Build Systems and CI/CD
+Contains examples and projects used for Lecture 11: Build Systems and CI/CD
